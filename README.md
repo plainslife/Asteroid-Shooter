@@ -12,5 +12,4 @@ This game uses assets from the [Space Shooter Redux](https://kenney.nl/assets/sp
 To run the game, navigate to the `src` directory and run the `main.py` file:
 
 ```bash
-cd src
 python main.py
